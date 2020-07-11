@@ -1,29 +1,6 @@
-# README #
+# Sea Level Predictor using Pandas, Scipy and matplotlib #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+*  Technology: Pandas, Python,Scipy and matplotlib.
+* Version:1:0
 
-### What is this repository for? ###
-
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
-
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+*  predictor will anaylize a dataset of the global average sea level change since 1880 and use the data to predict the sea level change through year 2050.
